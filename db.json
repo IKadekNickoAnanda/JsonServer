@@ -1,0 +1,96 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Patung",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "patung.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Tas Rotan",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": "tas-rotan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "lukisan",
+      "harga": 1000000,
+      "is_ready": true,
+      "gambar": "lukisan.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "lukisan 2",
+      "harga": 1000000,
+      "is_ready": true,
+      "gambar": "lukisan.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Topeng",
+      "harga": 5000000,
+      "is_ready": true,
+      "gambar": "topeng.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Patung",
+      "harga": 500000,
+      "is_ready": true,
+      "gambar": "patung.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Tas Rotan",
+      "harga": 50000,
+      "is_ready": true,
+      "gambar": "tas-rotan.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Lukisan",
+      "harga": 1000000,
+      "is_ready": true,
+      "gambar": "lukisan.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "lukisan 2",
+      "harga": 1000000,
+      "is_ready": true,
+      "gambar": "lukisan.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Kain",
+      "harga": 100000,
+      "is_ready": true,
+      "gambar": "kain-bali.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Topeng",
+      "harga": 5000000,
+      "is_ready": true,
+      "gambar": "topeng.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}
